@@ -1,0 +1,3 @@
+Content of h1 element: COMPANY LOGO
+Content of p element: Project ID: #37547419
+Content of bid element: 50
